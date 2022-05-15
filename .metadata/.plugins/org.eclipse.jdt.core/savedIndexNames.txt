@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ben15\OneDrive\Escritorio\programacion\eclipse\curso\api-rest-spring-boot-blog-system\.metadata\.plugins\org.eclipse.jdt.core
+501273058.index
+3251249088.index
+1865797976.index
